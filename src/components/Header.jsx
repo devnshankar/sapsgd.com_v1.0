@@ -7,8 +7,8 @@ function Header() {
     <header>
       <header className="header">
       <div className="header__left">
-        <h1>Shree Aurobindo Purnanga Siksha Gabeshana Dham</h1>
-        <h2>Nilagir, Baleshwar</h2>
+        <h1 className='l1'>Shree Aurobindo Purnanga Siksha Gabeshana Dham</h1>
+        <h2 className='l2'>Nilagir, Baleshwar</h2>
       </div>
 
       <div className="header__right">
