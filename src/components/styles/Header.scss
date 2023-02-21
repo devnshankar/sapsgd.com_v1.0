@@ -1,6 +1,7 @@
 $header-bg-color: #40a343; // Material Green color
-$header-logo-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
-$header-h1-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
+$header-logo-shadow: 0px 0px 15px rgba(0, 0, 0, 0.50);
+$header-h1-shadow: 2px 2px 8px rgba(0, 0, 0, 0.61);
+$header-h2-shadow: 2px 2px 8px rgba(0, 0, 0, 0.61);
 
 .header {
   display: flex;
@@ -25,9 +26,11 @@ $header-h1-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
     }
 
     h2 {
+      text-shadow: $header-h2-shadow;
       margin: 0;
       font-size: 1.5rem;
       font-weight: normal;
+      margin-left: 5px;
     }
 
   }
@@ -61,6 +64,7 @@ $header-h1-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
 
       h2 {
         font-size: 1.2rem;
+        margin-left: 116px;
       }
 
     }
@@ -69,8 +73,8 @@ $header-h1-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
       width: 100%;
       justify-content: center;
       img{
-        width: 160px;
-        height: 160px;
+        width: 130px;
+        height: 130px;
         
       }
     }

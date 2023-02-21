@@ -1,6 +1,6 @@
 import React from 'react'
 import "../components/styles/Header.scss"
-import logo from '../assets/logo/logo-maa.jpg';
+import logo from '../assets/logo/logo-maa-rmbg.png';
 
 function Header() {
   return (
