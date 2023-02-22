@@ -16,8 +16,13 @@ function App() {
 
     window.addEventListener('load', onLoad);
 
+    const delay = setTimeout(() => {
+      setIsLoading(false);
+    }, 500);
+
     return () => {
       window.removeEventListener('load', onLoad);
+      clearTimeout(delay);
     };
   }, []);
 
