@@ -18,7 +18,7 @@ function App() {
 
     const delay = setTimeout(() => {
       setIsLoading(false);
-    }, 1000);
+    }, 1600);
 
     return () => {
       window.removeEventListener('load', onLoad);
