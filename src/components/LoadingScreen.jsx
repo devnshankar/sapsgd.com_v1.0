@@ -1,14 +1,12 @@
 
 import "../components/styles/LoadingScreen.scss";
-import loadinglogo from "../assets/logo/logo-maa-rmbg.png";
+import { MoonLoader } from 'react-spinners';
 
 function LoadingScreen() {
 
   return (
-    <div className='loading-screen'>
-      <div className="loading-box">
-        <img className="loading-logo" src={loadinglogo} alt="Logo" />  
-      </div>
+    <div className="loading-spinner">
+      <MoonLoader  color={'rgba(26, 179, 26, 1.863)'} loading={true} size={70} />
     </div>
   )
 }

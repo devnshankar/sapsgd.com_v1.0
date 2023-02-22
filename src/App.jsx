@@ -18,11 +18,12 @@ function App() {
 
     const delay = setTimeout(() => {
       setIsLoading(false);
-    }, 1600);
+    }, 2200);
 
     return () => {
       window.removeEventListener('load', onLoad);
       clearTimeout(delay);
+      
     };
   }, []);
 
