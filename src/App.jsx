@@ -10,25 +10,30 @@ function App() {
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    // Simulate a delay of 1.5 seconds to show the loading screen
-    setTimeout(() => {
+    const onLoad = () => {
       setIsLoading(false);
-    }, 1400);
+    };
+
+    window.addEventListener('load', onLoad);
+
+    return () => {
+      window.removeEventListener('load', onLoad);
+    };
   }, []);
 
   return (
-    <div className="app">
+    <div>
       {isLoading ? (
-        <LoadingScreen />
-      ) : (
-        <>
+        <LoadingScreen/>
+      ) : null}
           <Header/>
           <NavBar/>
           <Footer/>
-        </>
-      )}
     </div>
   );
 }
 
 export default App;
+
+
+    

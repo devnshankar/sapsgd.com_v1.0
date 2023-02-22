@@ -1,5 +1,5 @@
-$loading-box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.836);
-$loading-logo-shadow: 0px 0px 25px rgba(0, 0, 0, 0.637);
+$loading-box-shadow: 0px 0px 100px rgb(0, 0, 0);
+$loading-logo-shadow: 0px 0px 25px rgba(0, 0, 0, 0.726);
 
 .loading-screen {
     position: fixed;
@@ -12,13 +12,15 @@ $loading-logo-shadow: 0px 0px 25px rgba(0, 0, 0, 0.637);
     display: flex;
     justify-content: center;
     align-items: center;
+    backdrop-filter: blur(6px);
+    
   }
   
   .loading-box {
     width: 100px;
     height: 100px;
     border-radius: 20px;
-    background-color: #47bd4da6;
+    background-color: #47bd4d;
     display: flex;
     justify-content: center;
     align-items: center;
