@@ -1,8 +1,10 @@
 
-import image1 from "../assets/images/schoolpic.jpg";
-import image2 from "../assets/images/schoolpic1.jpg";
-import image3 from "../assets/images/schoolpic2.jpg";
-import image4 from "../assets/images/schoolpic3.jpg";
+import image1 from "../assets/images/img1.jpg";
+import image2 from "../assets/images/img2.jpg";
+import image3 from "../assets/images/img3.jpg";
+import image4 from "../assets/images/img4.jpg";
+import image5 from "../assets/images/img5.jpg";
+import image6 from "../assets/images/img6.jpg";
 
 export const SliderData = [
   {
@@ -16,5 +18,11 @@ export const SliderData = [
   },
   {
     image: image4
+  },
+  {
+    image: image5
+  },
+  {
+    image: image6
   },
 ];
