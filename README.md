@@ -1,4 +1,4 @@
-# [sapsgd.com](https://sapsgd.netlify.app/)
+# sapsgd.com_v1.0
 
 This is a project made using react java script and sass. 
 
@@ -6,15 +6,19 @@ This is a project made using react java script and sass.
 
 This is a responsive web application prototype built for the educational firm Shree Aurobindo Purnanga Siksha Gabeshana Dham.
 
+## Website Link
+
+[sapsgd.com](https://sapsgd.netlify.app/){:target="_blank"}
+
 ## Technologies Used
 
-- [NodeJs](https://nodejs.org/en/)
-- [React java script](https://reactjs.org/)
-- [SASS](https://sass-lang.com/)
-- [HTML5](https://en.wikipedia.org/wiki/HTML5)
-- [Git](https://git-scm.com/)
-- [VsCode](https://code.visualstudio.com/)
-- [Netlify](https://www.netlify.com/)
+- [NodeJs](https://nodejs.org/en/){:target="_blank"}
+- [ReactJs](https://reactjs.org/){:target="_blank"}
+- [SASS](https://sass-lang.com/){:target="_blank"}
+- [HTML5](https://en.wikipedia.org/wiki/HTML5){:target="_blank"}
+- [Git](https://git-scm.com/){:target="_blank"}
+- [VsCode](https://code.visualstudio.com/){:target="_blank"}
+- [Netlify](https://www.netlify.com/){:target="_blank"}
 
 ### `npm start`
 
