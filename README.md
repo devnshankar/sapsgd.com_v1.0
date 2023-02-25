@@ -1,10 +1,20 @@
-# Getting Started with Create React App
+# sapsgd.com
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a project made using react java script and sass. 
 
-## Available Scripts
+## Project Description
 
-In the project directory, you can run:
+This is a responsive web application prototype built for the educational firm Shree Aurobindo Purnanga Siksha Gabeshana Dham.
+
+## Technologies Used
+
+- [NodeJs](https://nodejs.org/en/)
+- [React java script](https://reactjs.org/)
+- [SASS](https://sass-lang.com/)
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [Git](https://git-scm.com/)
+- [VsCode](https://code.visualstudio.com/)
+- [Netlify](https://www.netlify.com/)
 
 ### `npm start`
 
