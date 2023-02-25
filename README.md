@@ -8,17 +8,17 @@ This is a responsive web application prototype built for the educational firm Sh
 
 ## Website Link
 
-[sapsgd.com](https://sapsgd.netlify.app/){:target="_blank" rel="noopener"}
+[sapsgd.com](https://sapsgd.netlify.app/)
 
 ## Technologies Used
 
-- [NodeJs](https://nodejs.org/en/){:target="_blank" rel="noopener"}
-- [ReactJs](https://reactjs.org/){:target="_blank" rel="noopener"}
-- [SASS](https://sass-lang.com/){:target="_blank" rel="noopener"}
-- [HTML5](https://en.wikipedia.org/wiki/HTML5){:target="_blank" rel="noopener"}
-- [Git](https://git-scm.com/){:target="_blank" rel="noopener"}
-- [VsCode](https://code.visualstudio.com/){:target="_blank" rel="noopener"}
-- [Netlify](https://www.netlify.com/){:target="_blank" rel="noopener"}
+- [NodeJs](https://nodejs.org/en/)
+- [ReactJs](https://reactjs.org/)
+- [SASS](https://sass-lang.com/)
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [Git](https://git-scm.com/)
+- [VsCode](https://code.visualstudio.com/)
+- [Netlify](https://www.netlify.com/)
 
 ### `npm start`
 
