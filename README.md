@@ -8,17 +8,17 @@ This is a responsive web application prototype built for the educational firm Sh
 
 ## Website Link
 
-[sapsgd.com](https://sapsgd.netlify.app/){:target="_blank"}
+[sapsgd.com](https://sapsgd.netlify.app/){:target="_blank" rel="noopener"}
 
 ## Technologies Used
 
-- [NodeJs](https://nodejs.org/en/){:target="_blank"}
-- [ReactJs](https://reactjs.org/){:target="_blank"}
-- [SASS](https://sass-lang.com/){:target="_blank"}
-- [HTML5](https://en.wikipedia.org/wiki/HTML5){:target="_blank"}
-- [Git](https://git-scm.com/){:target="_blank"}
-- [VsCode](https://code.visualstudio.com/){:target="_blank"}
-- [Netlify](https://www.netlify.com/){:target="_blank"}
+- [NodeJs](https://nodejs.org/en/){:target="_blank" rel="noopener"}
+- [ReactJs](https://reactjs.org/){:target="_blank" rel="noopener"}
+- [SASS](https://sass-lang.com/){:target="_blank" rel="noopener"}
+- [HTML5](https://en.wikipedia.org/wiki/HTML5){:target="_blank" rel="noopener"}
+- [Git](https://git-scm.com/){:target="_blank" rel="noopener"}
+- [VsCode](https://code.visualstudio.com/){:target="_blank" rel="noopener"}
+- [Netlify](https://www.netlify.com/){:target="_blank" rel="noopener"}
 
 ### `npm start`
 
