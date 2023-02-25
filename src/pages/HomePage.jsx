@@ -39,7 +39,7 @@ function HomePage() {
 			      <h3>Contact Us</h3>
 			      <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel free to reach out to us if you have any questions or would like to schedule a visit. You can contact us by phone or email, or visit our campus in person.</p>
             <ul>
-				      <li>Phone: 123-456-7890</li>
+				      <li>Phone: 123-456-7898</li>
 				      <li><a className='home-mail' href="https://mail.google.com/mail/?view=cm&to=sapsgdofficial@gmail.com&su=Hello!!!&body=">sapsgdofficial@gmail.com</a></li>
 				      <li>Address: Nilgiri, Balasore, Odisha</li>
               <li><Link to="/contact" className='home-link'>more.</Link></li>
