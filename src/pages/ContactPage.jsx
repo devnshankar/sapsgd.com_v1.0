@@ -21,7 +21,7 @@ function ContactPage() {
   return (
     <div className='contactpage'>
       <div className='direct-email'>
-        <h2>Send us a message</h2>
+        <h1>Send us a message</h1>
         <form onSubmit={handleSubmit}>
           <label htmlFor="email">Your email</label>
           <input
