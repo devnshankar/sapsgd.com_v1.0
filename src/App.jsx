@@ -28,7 +28,7 @@ function App() {
   }, []);
 
   return (
-    <div>
+    <div className='app'>
       {isLoading ? (
         <LoadingScreen/>
       ) : null}

@@ -1,6 +1,5 @@
 
 .navbar {
-  background-color: #126420;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -31,14 +30,14 @@
     height: 2px;
     bottom: 0;
     left: 0;
-    background-color: #2dca32;
+    background-color: #3ffa93;
     visibility: hidden;
     transform: scaleX(0);
     transition: all 0.3s ease-in-out;
   }
   
   .nav-link:hover, .nav-link:focus {
-    color: #4CAF50;
+    color: #3ffa93;
     text-decoration: none;
   }
   
